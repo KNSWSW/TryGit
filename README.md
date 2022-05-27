@@ -4,4 +4,4 @@ This is a Hello
 
 ## Sub title
 
-Tihis is a sub title test
+This is a sub title test
